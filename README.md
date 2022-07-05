@@ -1,2 +1,2 @@
 # DisneyHotstar-Clone
-Devtown bootcamp
+Devtown Bootcamp
